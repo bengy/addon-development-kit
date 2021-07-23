@@ -1,5 +1,5 @@
 import addons from '@storybook/addons';
-import deepEqual from 'deep-equal';
+import deepEqual from 'fast-deep-equal';
 
 const GLOBAL = 'global';
 
